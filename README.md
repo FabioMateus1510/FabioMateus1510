@@ -38,10 +38,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus1
 />
 </div>
 <br/>
-<div align="center">
-  <h2>Trophies</h2>
-</div>
 
+<h2>Trophies</h2>
 <div align="center">
 <img
   src="https://github-profile-trophy.vercel.app/?username=FabioMateus1510&theme=dracula&no-frame=true&no-bg=false&margin-w=4"
