@@ -2,7 +2,7 @@
   <h1>Hi there, it's your friendly neighborhood developer, Fábio Mateus! 🕷️</h1>
 </div>
 
-<h2>about me</h2>
+<h2>About me</h2>
 
 Tive a sorte de ter um computador em casa desde criança, graças ao meu pai que era programador.
 Já nessa época, nasceu em mim uma grande curiosidade e o desejo de entender o que estava por trás do funcionamento daquele Windows quadradão, dos joguinhos em Flash do navegador e das páginas web, ainda muito diferentes do que viriam a se tornar um dia.Os anos se passaram, mas a curiosidade e o entusiasmo não diminuíram. Então, resolvi dedicar meu tempo e meus esforços para me tornar uma das pessoas que contribuem para este mundo que sempre me fascinou.
@@ -10,9 +10,7 @@ Já nessa época, nasceu em mim uma grande curiosidade e o desejo de entender o 
 Atualmente estudando na TRYBE
 
 <br/>
-
-<h2>tech stack</h2>
-
+<h2>Tech stack</h2>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +20,7 @@ Atualmente estudando na TRYBE
 
 <br/>
 
- <h2>Stats</h2>
+<h2>Stats</h2>
 
 <div align="center">
 <img
