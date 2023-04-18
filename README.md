@@ -34,7 +34,7 @@ Atualmente estudando na TRYBE
 />
 </br>
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus1510&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus1510&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"
 />
 </div>
 <br/>
