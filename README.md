@@ -1,8 +1,3 @@
-<style>
-h1 {color: #ff8500;}
-H2 {color: #fa6969;}
-</style>
-
 <div align="center">
   <h1>Hi there, it's your friendly neighborhood developer, Fábio Mateus! 🕷️</h1>
 </div>
