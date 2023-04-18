@@ -37,7 +37,7 @@ Atualmente estudando na TRYBE
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus1510&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"
 />
 </div>
-<br/><br/>
+<br/>
 <div align="center">
   <h2>Trophies</h2>
 </div>
