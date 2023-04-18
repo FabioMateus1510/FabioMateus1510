@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, it's your friendly neighborhood developer, Fábio Mateus! 🕷️</h1>
+  <h1>Hi, it's your friendly neighborhood developer, Fábio Mateus! 🕷️ 🕸️</h1>
 </div>
 
 <h2>About me</h2>
