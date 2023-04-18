@@ -32,7 +32,7 @@ Atualmente estudando na TRYBE
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=FabioMateus1510&theme=dracula&hide_border=true"
 />
-</br></br>
+</br>
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus1510&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"
 />
@@ -42,9 +42,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMateus1
   <h2>Trophies</h2>
 </div>
 
-
-
-![](https://github-profile-trophy.vercel.app/?username=FabioMateus1510&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=FabioMateus1510&theme=dracula&no-frame=true&no-bg=false&margin-w=4"
+/>
+</div>
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=FabioMateus1510&icon=4&color=12)](https://visitcount.itsvg.in) -->
