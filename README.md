@@ -9,7 +9,7 @@ Já nessa época, nasceu em mim uma grande curiosidade e o desejo de entender o 
 
 Atualmente estudando na TRYBE
 
-<img align="right" width="200" src="https://i.redd.it/cm87r1zbmol51.jpg" />
+<img align="right" width="250" src="https://i.redd.it/cm87r1zbmol51.jpg" />
 
 <br/>
 <h2>Tech stack</h2>
