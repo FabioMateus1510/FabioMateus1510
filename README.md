@@ -24,7 +24,7 @@ Atualmente estudando na TRYBE
 
 <div align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=FabioMateus1510&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=FabioMateus1510&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
 />
 </br>
 <img
