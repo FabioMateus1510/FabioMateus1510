@@ -7,7 +7,7 @@
 Tive a sorte de ter um computador em casa desde criança, graças ao meu pai que era programador.
 Já nessa época, nasceu em mim uma grande curiosidade e o desejo de entender o que estava por trás do funcionamento daquele Windows quadradão, dos joguinhos em Flash do navegador e das páginas web, ainda muito diferentes do que viriam a se tornar um dia.Os anos se passaram, mas a curiosidade e o entusiasmo não diminuíram. Então, resolvi dedicar meu tempo e meus esforços para me tornar uma das pessoas que contribuem para este mundo que sempre me fascinou.
 
-Atualmente estudando na TRYBE
+Atualmente estudando no COLTEC/UFMG
 
 <img align="right" width="250" src="https://i.redd.it/cm87r1zbmol51.jpg" />
 <br/>
